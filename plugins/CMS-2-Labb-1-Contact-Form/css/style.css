@@ -1,0 +1,32 @@
+#myform-plugin{
+  padding: 5px;
+}
+.sent-success{
+  background-color:green;
+  color:white;
+  padding:20px;
+}
+.no-sent-success{
+  background-color:red;
+  color:white;
+  padding:20px;
+}
+#myform-plugin input[type=text], #myform-plugin select ,#myform-plugin input[type=email],#myform-plugin input[type=number],#myform-plugin textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#myform-plugin input[type=submit] {
+  width: 100%;
+  background-color: #00D1B2;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}

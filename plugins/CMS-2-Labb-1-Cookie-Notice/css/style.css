@@ -1,0 +1,35 @@
+#cookie-plugin{
+  background-color: rgba(0, 0, 0, 0.88);
+  position: fixed;
+  width: 100%;
+  bottom:0;
+  left:0;
+  z-index: 1000;
+}
+#cookie-plugin .container{
+  margin: 0 auto;
+  padding: 20px;
+}
+#cookie-plugin .cookie-plugin-button{
+  float: right;
+  background:linear-gradient(to bottom, #ffffff 5%, #ccc2a6 100%);
+  background-color:#ffffff;
+  border:1px solid grey;
+  color:#505739;
+  font-family:Arial;
+  font-size:14px;
+  font-weight:bold;
+  padding:12px 16px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+  padding:5px 20px 5px 20px;
+  margin-bottom: 10px;
+}
+#cookie-plugin .cookie-plugin-text{
+  float: left;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:14px;
+  font-weight:bold;
+  padding:5px;
+}
