@@ -1,4 +1,4 @@
-#LABB 2
+# LABB 2
 
 # CMS-2-Labb-2-Gift_Checkbox
  activated plugin, på checkout sidan längs när kommer checkboxen visas med text input, på din admin order kommer visas också
@@ -15,7 +15,7 @@
   Shipping pris kommer ändras om den är mer än 10km annars kommer räknas bara frakt + Weight eller frakt * Weight
   Notera: ett problem att after du klickar på procces to checkout $distance variable = NULL (den hittar inget adress att räkna ut din distance)
   
-#LABB 1  
+# LABB 1  
   
 # CMS-2-Labb-1-Shortcode
 add this code to any page
