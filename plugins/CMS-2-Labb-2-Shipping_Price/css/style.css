@@ -1,0 +1,28 @@
+#myform-plugin{
+  padding: 5px;
+}
+.getdistanceplugin{
+  width: 100%;
+  padding: 5px;
+  background-color:#00D1B2;
+  color:white;
+}
+#shipping-form input[type=text], #shipping-form input[type=number]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#shipping-form input[type=submit] {
+  width: 100%;
+  background-color: #00D1B2;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
