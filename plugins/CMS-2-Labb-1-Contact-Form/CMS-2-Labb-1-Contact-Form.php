@@ -30,7 +30,7 @@ if ( ! defined( 'ABSPATH' ) ) {
      $num1 = 5;
      $num2 = 4;
      $value = shortcode_atts( array(
-       'receiver'    => 'jackyz22@hotmail.com',
+       'receiver'    => 'test@test.com',
        'placeholder'  => 'type your message here ...',
        'success-text'   => 'Your message sent successfully',
        'num1'   => $num1,
